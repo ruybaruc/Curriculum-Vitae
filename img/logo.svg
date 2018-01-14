@@ -1,0 +1,24 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <symbol id="svg_8" height="480" width="640" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+   <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+   <g>
+    <title>Layer 1</title>
+    <g id="svg_3" stroke="null">
+     <rect fill="#1c1c1c" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="91.711914" y="100.253906" width="210.186515" height="100.135738" id="svg_7" stroke="#000000"/>
+     <text fill="#ffffff" stroke-width="0" x="186.821106" y="154.512567" id="svg_6" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(2.128221490077634,0,0,2.1055219726760535,-201.57458223534468,-158.9320940516066) " stroke="#000000">RBVR</text>
+     <text fill="#ffffff" stroke-width="0" x="127.299057" y="176.248953" id="svg_5" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.5196218802831439,0,0,0.6624737661914137,128.17359920593142,72.97001793396643) " stroke="#000000">10101010101000101101010101010</text>
+     <text fill="#ffffff" stroke-width="0" x="126.782078" y="73.217969" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.5196218802831439,0,0,0.6624737661914137,128.17359920593142,72.97001793396643) " id="svg_4" stroke="#000000">10101010101000101101010101010</text>
+    </g>
+    <ellipse fill="#ffffff" stroke-width="null" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="91.610317" cy="150.043942" id="svg_2" rx="9.017578" ry="8.305664" stroke="#ffffff"/>
+    <line fill="none" stroke-width="null" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="91.352455" y1="158.84845" x2="91.58976" y2="141.135362" id="svg_1" transform="rotate(-0.7541338801383972 91.47110748291307,149.99189758300813) " stroke="#000000"/>
+   </g>
+  </symbol>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <use x="-166.002401" y="-166.840907" transform="matrix(2.6612718741151298,0,0,3.1446127403122546,240.4986641271271,286.67675622868256) " xlink:href="#svg_8" id="svg_9"/>
+  <g id="svg_10"/>
+ </g>
+</svg>

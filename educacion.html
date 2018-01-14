@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable: no">
+	<title>Curriculum Vitae - Educación</title>
+</head>
+<body> 
+	<svg>
+		<image xlink:href="img/logo.svg" width="300" height="200"></image>
+	</svg>
+	<header>
+		<h1>Curriculum Vitae</h1>
+		<h2>Ruy Baruc Vera Ramos</h2>
+	</header>
+	<nav>
+		<ul>
+			<li><a href="index.html">Inicio</a></li>
+			<li><a href="#">Educación</a></li>
+			<li><a href="experiencia.html">Experiencia</a></li>
+		</ul>
+	</nav>
+	<h2>Educación</h2>
+	<table border="1">
+		<thead>
+			<tr>
+				<th>Año</th>
+				<th>Institución</th>
+				<th>Lugar</th>
+				<th>¿Culmino?</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>2009</td>
+				<td>Benemerita Universidad Autonoma de Puebla</td>
+				<td>Puebla, México</td>
+				<td>2017</td>
+			</tr>
+		</tbody>
+	</table>
+	<h3>Agregar Estudios</h3>
+	<form>
+		<label for="anio">Año:</label>
+		<select id="anio">
+			<option>2018</option>
+			<option>2017</option>
+			<option>2016</option>
+			<option>2015</option>
+			<option>2014</option>
+			<option>2013</option>
+			<option>2012</option>
+			<option>2011</option>
+			<option>2010</option>
+			<option>2009</option>
+			<option>2008</option>
+			<option>2007</option>
+			<option>2006</option>
+			<option>2005</option>
+			<option>2004</option>
+			<option>2003</option>
+			<option>2002</option>
+			<option>2001</option>
+			<option>2000</option>
+		</select>
+		<p><label for="institucion">Institución:</label>
+		<input type="text" id="institucion" required/>
+		</p>
+		<p>
+		<label for="lugar">Lugar:</label>
+		<textarea id="lugar" required></textarea>
+		</p>
+		<p>
+			<label>Culminó.</label>
+			<input type="radio" name="culmino" value="Si" required>Si
+			<input type="radio" name="culmino" value="No" required>No
+		</p>
+		<input type="submit" value="Enviar">
+	</form>
+	<footer>
+		<h3>Contacto</h3>
+		<p><strong>Email:</strong> ruybaruc@gmail.com</p>
+		<p><strong>Telefono Celular:</strong> 2222557298</p>
+		<p><strong>Dirección:</strong> C. Abasolo 22 Col. Unidad San Angel, Puebla, Puebla, México</p>
+	</footer>
+</body>
+</html>
